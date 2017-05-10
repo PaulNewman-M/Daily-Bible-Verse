@@ -1,0 +1,38 @@
+.container {
+	max-width:600px;
+	width:100%;
+  height:100%;
+	margin:0 auto;
+	position:relative;
+  //color:#DAF7A6;
+  background-color:white;
+  opacity:0.8;
+ // font-family:Lobster;
+  
+}
+f{
+    font-family: Lobster,Monspace;
+  }
+.btn-twitter{
+  
+  color:white;
+ background-color:#55ACEE;
+}
+.btn-google{
+  background-color:#4285F4;
+}
+.btn-faceboo{
+  background-color:#3B5998;
+}
+body{
+  font-family:Lobster,Monospace;
+  background-color:#ECF0F1     ;
+  color:;
+}
+
+.o{
+  opacity:0.9;
+  background-color:white;
+  font-weight:light;
+  color:;
+}
