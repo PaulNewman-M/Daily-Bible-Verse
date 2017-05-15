@@ -34,7 +34,7 @@ var $target= $("#target");
  var $tweet= $("#tweet"); 
   $.ajax({
     
-      url: "http://labs.bible.org/api/?passage=random&type=json&formatting=plain&callback=?",
+      url: "https://labs.bible.org/api/?passage=random&type=json&formatting=plain&callback=?",
      dataType: "jsonp",
      // data: "lang=en",
       success: function( response) {
